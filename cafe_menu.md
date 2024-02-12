@@ -7,3 +7,4 @@
 3. Frappe
 4. Latte
 5. [Ice tea](recipes/ice_tea.txt)
+6. [Signature Latte](recipes/signature_latte.txt)
